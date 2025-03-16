@@ -3,6 +3,7 @@
 - 🌱 I’m currently proficient go, js,css, html  a bit of  Rust.
 - ✨ Attempted C, python's ML and some frameworks(React, RubyOnRails, Django)
 - 💞️ I’m looking to collaborate on projects involving fullstack development, ML, cli tools, systems design.
+- 💼 Portfolio: https://www.ska.work.gd/
 - 📫 How to reach me .... swapomuse@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...i love stargazing
