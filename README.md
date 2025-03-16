@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skanenje
-- 👀 I’m interested in any challange
+- 👀 I’m interested in coding, problem solving, leadership , mentorship.
 - 🌱 I’m currently proficient go, js,css, html  a bit of  Rust.
 - ✨ Attempted C, python's ML and some frameworks(React)
-- 💞️ I’m looking to collaborate on projects involving fullstack development.
+- 💞️ I’m looking to collaborate on projects involving fullstack development, ML, cli tools, systems design.
 - 📫 How to reach me .... swapomuse@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...i love stargazing
