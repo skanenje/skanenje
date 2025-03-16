@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skanenje
 - 👀 I’m interested in coding, problem solving, leadership , mentorship.
-- 🌱 I’m currently proficient go, js, backend a little bit of C, C++, Python.
+- 🌱 I’m currently proficient go, js, backend, frontend a little bit of C, C++, Python.
 - ✨ Attempted some frameworks(React, RubyOnRails, Django)
 - 💞️ I’m looking to collaborate on projects involving fullstack development, ML, cli tools, systems design.
 - 💼 Portfolio: https://www.ska.work.gd/
