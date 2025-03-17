@@ -3,7 +3,7 @@
 - 🌱 I’m currently proficient go, js, backend, frontend a little bit of C, C++, Python.
 - ✨ Attempted some frameworks(React, RubyOnRails, Django)
 - 💞️ I’m looking to collaborate on projects involving fullstack development, ML, cli tools, systems design.
-- 💼 Portfolio: [link](https://folio.work.gd/)
+- <a href="https://folio.work.gd/" target="_blank" rel="noopener noreferrer">💼 Portfolio</a>
 - 📫 How to reach me .... swapomuse@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...i love stargazing
