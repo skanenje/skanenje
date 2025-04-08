@@ -1,15 +1,43 @@
-- 👋 Hi, I’m @skanenje
-- 👀 I’m interested in coding, devops, leadership , mentorship and problem solving programming and IT challenges.
-- 🌱 I’m currently proficient go, js, backend, frontend a little bit of C, C++, Python.
-- ✨ Attempted some frameworks(React, RubyOnRails, Django)
-- 💞️ I’m looking to collaborate on projects involving Go, JS, Rust, ML, cli tools, systems design.
-- <a href="https://folio.work.gd/" target="_blank">💼 Portfolio</a>
-- 📫 How to reach me .... swapomuse@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...i love stargazing
+### 👋 Hello, I’m Swabri!
+
+I’m a passionate coder and problem-solver with a knack for tackling programming and IT challenges. My interests span **coding**, **DevOps**, **leadership**, **mentorship**, and finding creative solutions.
+
+---
+
+### Skills & Expertise
+- **Proficient in**: Go, JavaScript, Rust.
+- **Frameworks I’ve Explored**: React, Ruby on Rails, Django
+- Continuously learning and sharpening my craft!
+
+---
+
+### What I’m Excited to Work On
+I’m eager to collaborate on projects involving:
+- Go, JavaScript, Rust
+- Machine Learning (ML)
+- CLI Tools
+- Systems Design
+
+---
+
+### 💼 Portfolio
+Check out my work: [folio.work.gd](https://folio.work.gd/)
+
+---
+
+### Let’s Connect!
+- **Email**: [swapomuse@gmail.com](mailto:swapomuse@gmail.com)
+- Feel free to reach out—I’d love to chat about tech, projects, or ideas!
+
+---
+
+### 😄 About Me
+- **Pronouns**: He/Him
+- **Fun Fact**: I’m a stargazing enthusiast—nothing beats a clear night sky!
+
+---
 
 <!---
-skanenje/skanenje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
+This `README.md` powers my GitHub profile—a little window into who I am and what I do.  
+Want to see more? Follow my [portfolio site](https://folio.work.gd/) for updates and projects!
+--->
