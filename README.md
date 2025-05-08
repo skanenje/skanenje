@@ -1,22 +1,22 @@
 ### 👋 Hello, I’m Swabri!
 
-I’m a passionate coder and problem-solver with a knack for tackling programming and IT challenges. My interests span **coding**, **DevOps**, **leadership**, **mentorship**, and finding creative solutions.
+I’m a passionate coder and problem-solver with a knack for tackling programming and IT challenges. My interests span **coding**, **Web Development**, **leadership**, **mentorship**, and finding creative solutions.
 
 ---
 
 ### Skills & Expertise
 - **Proficient in**: Go, JavaScript, Rust.
-- **Frameworks I’ve Explored**: React, Ruby on Rails, Django
+- **Frameworks I’ve Explored**: React, Ruby on Rails, 
 - Continuously learning and sharpening my craft!
 
 ---
 
 ### What I’m Excited to Work On
 I’m eager to collaborate on projects involving:
-- Go, JavaScript, Rust
-- Machine Learning (ML)
+- Web applications and Services
+- Backend Systems
 - CLI Tools
-- Systems Design
+- GUI apps
 
 ---
 
