@@ -21,7 +21,7 @@ I’m eager to collaborate on projects involving:
 ---
 
 ### 💼 Portfolio
-Check out my work: [folio.work.gd](https://folio.work.gd/)
+Check out my work: [portfolio](portfolio2-0-blond-omega.vercel.app)
 
 ---
 
