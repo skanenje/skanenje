@@ -1,43 +1,51 @@
 ### 👋 Hello, I’m Swabri!
 
-I’m a passionate coder and problem-solver with a knack for tackling programming and IT challenges. My interests span **coding**, **Web Development**, **leadership**, **mentorship**, and finding creative solutions.
+I’m a developer who enjoys solving real-world problems through clean software design and deliberate engineering. My work spans **backend development**, **system design**, **full-stack development**,  and increasingly, **AI engineering**—especially agentic systems, RAG pipelines, and intelligent automation.
 
 ---
 
-### Skills & Expertise
-- **Proficient in**: Go, JavaScript, Rust.
-- **Frameworks I’ve Explored**: React, Ruby on Rails, 
-- Continuously learning and sharpening my craft!
+### ⚡ Skills & Expertise
+
+* **Languages**: Go, JavaScript, Rust, Python.
+* **Areas of Focus**:
+
+  * Backend engineering & system architecture
+  * AI Agents, RAG pipelines, LLM integrations
+  * Task automation and productivity tooling
+* **Technologies Explored**: Frameworks(NextJS, Django) Google ADK, Cloud(AWS, Alibaba, GCD)
+
+I’m constantly learning, experimenting, and sharpening my engineering craft.
 
 ---
 
-### What I’m Excited to Work On
-I’m eager to collaborate on projects involving:
-- Web applications and Services
-- Backend Systems
-- CLI Tools
-- GUI apps
+### 🚀 What I’m Excited to Work On
+
+I'm currently interested in projects involving:
+
+* AI Agents & Retrieval Systems
+* Developer/tooling automation
+* Web applications & services
+* Backend systems and APIs
+* CLI & GUI tools
+* Productivity systems enhanced with AI
 
 ---
 
 ### 💼 Portfolio
-Check out my work: [portfolio](https://portfolio2-0-blond-omega.vercel.app/)
+
+Check out my work: **[portfolio](https://portfolio2-0-blond-omega.vercel.app/)**
 
 ---
 
-### Let’s Connect!
-- **Email**: [swapomuse@gmail.com](mailto:swapomuse@gmail.com)
-- Feel free to reach out—I’d love to chat about tech, projects, or ideas!
+### 📫 Let’s Connect!
+
+* **Email**: [swapomuse@gmail.com](mailto:swapomuse@gmail.com)
+  Open to collaborations, discussions, and building impactful tools.
 
 ---
 
 ### 😄 About Me
-- **Pronouns**: He/Him
-- **Fun Fact**: I’m a stargazing enthusiast—nothing beats a clear night sky!
 
----
+* **Pronouns**: He/Him
+* **Fun Fact**: I’m a stargazing enthusiast—nothing beats a clear night sky!
 
-<!---
-This `README.md` powers my GitHub profile—a little window into who I am and what I do.  
-Want to see more? Follow my [portfolio site](https://folio.work.gd/) for updates and projects!
---->
