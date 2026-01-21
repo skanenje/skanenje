@@ -12,7 +12,7 @@ I’m a developer who enjoys solving real-world problems through clean software 
   * Backend engineering & system architecture
   * AI Agents, RAG pipelines, LLM integrations
   * Task automation and productivity tooling
-* **Technologies Explored**: Frameworks(NextJS, Svelte, Django), Cloud(AWS, Alibaba), SDKs, API and AI integration, Docker, Nginx, CI/CD(GitHub Actions) and curious for more
+* **Technologies Explored**: Desktop(Electron, Tauri)Frameworks(NextJS, Svelte, Django), Cloud(AWS, Alibaba), SDKs, API and AI integration, Docker, Nginx, CI/CD(GitHub Actions) and curious for more
 
 I’m constantly learning, experimenting, and sharpening my engineering craft.
 
