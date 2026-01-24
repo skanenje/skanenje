@@ -22,7 +22,7 @@ I’m constantly learning, experimenting, and sharpening my engineering craft.
 
 I'm currently interested in projects involving:
 
-* AI Agents & Retrieval Systems
+* Cross-platform Desktop apps using Electron.js, tauri
 * Developer/tooling automation
 * Web applications & services
 * Backend systems and APIs
