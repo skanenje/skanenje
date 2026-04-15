@@ -33,7 +33,7 @@ I'm currently interested in projects involving:
 
 ### 💼 Portfolio
 
-Check out my work: **[portfolio](https://portfolio2-0-blond-omega.vercel.app/)**
+Check out my work: **[portfolio](https://swabri.vercel.app/)**
 
 ---
 
